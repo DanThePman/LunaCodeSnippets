@@ -1,9 +1,11 @@
 <snippet>
     <content>
 <![CDATA[
-\nfunction(a,value) 
+
+function(a,value) 
 a.name = value
-end\n
+end
+
 ]]>
 </content>
 	<tabTrigger>generateConstructor</tabTrigger>
