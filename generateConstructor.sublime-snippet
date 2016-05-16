@@ -1,0 +1,10 @@
+<snippet>
+    <content>
+<![CDATA[
+\nfunction(a,value) 
+a.name = value
+end\n
+]]>
+</content>
+	<tabTrigger>generateConstructor</tabTrigger>
+</snippet>
