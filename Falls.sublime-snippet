@@ -3,7 +3,7 @@
 <![CDATA[
 
 if ${1:Variable} ${2:Operator} ${3:Wert} then
-dieser code ist neuer
+dieser code ist neu
 end
 
 
