@@ -1,7 +1,7 @@
 <snippet>
     <content>
 <![CDATA[
-${1:ClassName} = class(${1:BaseClass, } ${3:ConstructorFunction})
+${1:ClassName} = class(${2:BaseClass, } ${3:ConstructorFunction})
 ]]>
 </content>
 	<tabTrigger>generateClass</tabTrigger>
