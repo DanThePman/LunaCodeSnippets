@@ -3,7 +3,7 @@
 <![CDATA[
 
 function(a,value) 
-a.name = value
+  a.name = value
 end
 
 ]]>
