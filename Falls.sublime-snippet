@@ -4,7 +4,7 @@
 
 if ${1:Variable} ${2:Operator} ${3:Wert} then
 
-end 
+end
 
 
 ]]>
