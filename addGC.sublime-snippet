@@ -10,9 +10,9 @@ local function ${1:YourFunction}(gc)
 
 end
  
-AddToGC("YourFunction", YourFunction)
+AddToGC("${1:YourFunction}", ${1:YourFunction})
 
---gc:YourFunction(gc)
+--gc:${1:YourFunction}(gc)
 ]]>
 </content>
 	<tabTrigger>addGC</tabTrigger>
